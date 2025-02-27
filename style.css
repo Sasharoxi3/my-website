@@ -69,6 +69,7 @@ h1{
     .serve img{
         display: block;
         text-align: center;
+       align-self: center;
     }
 }
 .serve h3{
