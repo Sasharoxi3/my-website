@@ -59,8 +59,7 @@ h1{
 .serve img{
     border-radius: 30px;
     margin-right:5.5px ;
-    width: 300px;
-   height:300px;
+    width: 250px;
 }
 .serve p {
     margin-right: 50px;
@@ -153,8 +152,8 @@ ul.work li img {
     border-radius: 30px;
     margin-bottom: 10px;
     padding: 20px;
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
 }
 ul.work li h3 {
     font-size: 24px;
