@@ -46,7 +46,6 @@ h1{
 }
 .welcome p{
     font-style: oblique;
-    font-weight: 200;
     text-align: center;
     font-size: medium;
 }
@@ -79,10 +78,10 @@ h1{
 }
 .serve p{
     font-style: normal;
-    font-size:smaller;
+    font-size:small;
 }
 .us p{
-    font-size: smaller;
+    font-size: small;
 }
 @media (max-width: 1000px) {
     .us p{
