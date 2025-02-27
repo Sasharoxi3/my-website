@@ -59,13 +59,13 @@ h1{
 .serve img{
     border-radius: 30px;
     margin-right:5.5px ;
-    width: 250px;
+    width: 300px;
 }
 .serve p {
     margin-right: 50px;
     text-align: justify;
 }
-@media (max-width: 360px) {
+@media (max-width: 180px) {
     .serve{
         display: block;
         text-align: center;
@@ -84,7 +84,7 @@ h1{
 .us p{
     font-size: smaller;
 }
-@media (max-width: 360px) {
+@media (max-width: 180px) {
     .us p{
         text-align: center;
         display: block;
@@ -121,7 +121,7 @@ h1{
     align-self: center;
     list-style: none;
 }
-@media (max-width: 360px) {
+@media (max-width: 180px) {
     .logos img{
         display: block;
         text-align: center;
@@ -160,7 +160,7 @@ ul.work li h3 {
     color: rgb(40, 151, 40);
     margin-top: 10px;
 }
-@media (max-width: 360px) {
+@media (max-width: 180px) {
     ul.work{
         display: block;
         text-align: center;
@@ -169,7 +169,7 @@ ul.work li h3 {
 .btn{
     display: none;
 }
-@media(max-width: 360px){
+@media(max-width: 180px){
     .btn{
     display: flex;
     cursor: pointer;
