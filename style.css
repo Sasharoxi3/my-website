@@ -65,7 +65,7 @@ h1{
     margin-right: 50px;
     text-align: justify;
 }
-@media (max-width: 180px) {
+@media (max-width: 1000px) {
     .serve{
         display: block;
         text-align: center;
