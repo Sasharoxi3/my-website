@@ -69,7 +69,6 @@ h1{
     .serve img{
         display: block;
         text-align: center;
-       flex-wrap: wrap;
     }
 }
 .serve h3{
@@ -91,7 +90,6 @@ h1{
         display: block;
         font-size: 10px;
         margin: auto;
-       flex-wrap: wrap;
     }
     
 }
@@ -128,7 +126,6 @@ h1{
         display: block;
         text-align: center;
         margin-bottom: 20px;
-       flex-wrap:wrap;
     }
 }
 .logos p{
@@ -167,7 +164,6 @@ ul.work li h3 {
     ul.work{
         display: block;
         text-align: center;
-       flex-wrap:wrap;
     }
 }
 .btn{
